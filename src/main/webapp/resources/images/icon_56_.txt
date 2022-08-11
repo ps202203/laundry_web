@@ -1,0 +1,35 @@
+그림이 다 이어져 있기 떄문에 사이즈를 나눠서 사용하는듯함
+
+sub_wrap .contens .inbox i.company {
+  background-position: 0 0;
+}
+.sub_wrap .contens .inbox i.ceo {
+  background-position: -56px 0;
+}
+.sub_wrap .contens .inbox i.history {
+  background-position: -112px 0;
+}
+.sub_wrap .contens .inbox i.location {
+  background-position: -168px 0;
+}
+.sub_wrap .contens .inbox i.solution {
+  background-position: -224px 0;
+}
+.sub_wrap .contens .inbox i.effect {
+  background-position: -280px 0;
+}
+.sub_wrap .contens .inbox i.status {
+  background-position: -336px 0;
+}
+.sub_wrap .contens .inbox i.application {
+  background-position: -392px 0;
+}
+.sub_wrap .contens .inbox i.system {
+  background-position: -448px 0;
+}
+.sub_wrap .contens .inbox i.price {
+  background-position: -504px 0;
+}
+.sub_wrap .contens .inbox i.process {
+  background-position: 0 -56px;
+}
